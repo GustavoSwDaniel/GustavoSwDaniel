@@ -1,6 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am Gustavo, a student of System Analysis and Development at the <a href="https://www.ifspcjo.edu.br/"><b>Federal Institute of Education, Science and Technology of San Paulo.</b></a>
-Currently, I program in python, have knowledge in flask in building apiRES, and currently I am studying Django. I have good knowledge in SQL server and C #
+Currently, I program in python, have knowledge in flask in building apiREST, and currently I am studying Django. I have good knowledge in SQL server and C #
 Every day I want to learn more, knowledge is never too much.
 I'm passionate about technology.</em>
  <br/>
@@ -10,21 +10,23 @@ I'm passionate about technology.</em>
 	- C++
   - C#
 
+## :computer: I'm currently working with
+- Python    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- Flask     <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
+- Posgress      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+- MongoDB    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
 
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Django**
-- **Docker**
+- **Docker**  <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+- **Elixir**  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> 
 
 
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> 
+
+
 
 <br/>
   <br/>
