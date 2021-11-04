@@ -7,8 +7,12 @@ I'm passionate about technology.</em>
 ## Ask me about :computer: 
 - **Backend Developer**
 	- Python ❤️
+	- Flask
+	- Postgress
+	- Rabbitmq
+	- microservices
 	- C++
-  - C#
+  	- C#
 
 ## :computer: I'm currently working with
 - Python    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
