@@ -8,17 +8,21 @@ I'm passionate about technology.</em>
 - **Backend Developer**
 	- Python ❤️
 	- Flask
+	- FastApi
 	- Postgress
 	- Rabbitmq
+	- Kafka
 	- microservices
 	- C++
   	- C#
 
 ## :computer: I'm currently working with
-- Python    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-- Flask     <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
+- Python    	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- Flask     	<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> 
+- FastApi 	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 - Posgress      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-- MongoDB    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+- MongoDB    	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+- Kafka	     	<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
