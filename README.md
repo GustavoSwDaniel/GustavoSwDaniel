@@ -23,16 +23,16 @@ I'm passionate about technology.</em>
 - Posgress      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 - MongoDB    	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
 - Kafka	     	<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+- Docker <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Docker**  <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-- **Elixir**  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> 
-
-
+- **Kubernetes**  <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
+- **GO**  <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> 
+- **TerraForm** <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"> 
 
 
 
